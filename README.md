@@ -1,2 +1,2 @@
 # Python-project
-For ism
+For ism: open folder in main branch for assignment completion
